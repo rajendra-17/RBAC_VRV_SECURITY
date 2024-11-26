@@ -1,8 +1,7 @@
 # **Role-Based Access Control (RBAC) UI**
 
-This project is a **Role-Based Access Control (RBAC)** User Interface built as part of VRV Security's Frontend Developer Intern assignment. The application provides administrators with an intuitive and secure platform to manage users, roles, and permissions. Built using modern web technologies, the project focuses on creativity, functionality, and user experience.
+This project is a Role-Based Access Control (RBAC) User Interface designed and developed by Rajendra Kumar, IIT Mandi, as part of the VRV Security Frontend Developer Intern assignment. The application delivers a user-friendly and secure platform for managing users, roles, and permissions. Leveraging modern web technologies, it emphasizes creativity, functionality, and an exceptional user experience.
 
----
 
 ## **Table of Contents**
 
