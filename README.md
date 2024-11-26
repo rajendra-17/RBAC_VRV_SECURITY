@@ -11,14 +11,13 @@ This project is a **Role-Based Access Control (RBAC)** User Interface built as p
 3. [Additional Features](#additional-features)
 4. [Technology Stack](#technology-stack)
 5. [Setup Instructions](#setup-instructions)
-6. [Live Demo](#live-demo)
-7. [Screenshots](#screenshots)
+6. [Screenshots](#screenshots)
 
 ---
 
 ## **Project Overview**
 
-The **RBAC UI** allows administrators to perform key operations related to user, role, and permission management. It emphasizes a clean design, dynamic animations, and responsiveness to ensure seamless functionality across devices.
+The RBAC UI empowers administrators to seamlessly manage key operations, including user, role, and permission management. With a focus on clean design and dynamic animations, the application ensures a responsive and engaging experience across all devices.
 
 ### **Core Requirements Addressed:**
 
@@ -33,9 +32,9 @@ The **RBAC UI** allows administrators to perform key operations related to user,
 
 ### **User Management**
 
-- View a list of users in a responsive table format.
-- Add, edit, or delete users dynamically.
-- Assign roles and manage user statuses (e.g., Active/Inactive).
+- Display user information in an organized, responsive table.
+- Perform dynamic operations like adding, editing, or deleting users.
+- Assign roles and update user statuses (e.g., Active/Inactive).
 
 ### **Role Management**
 
